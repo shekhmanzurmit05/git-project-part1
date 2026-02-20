@@ -1,0 +1,4 @@
+# Git Branching Notes
+Working on feature-update branch
+Create New Branch and switch using command git checkout -b feature-update
+Command for check the current branch is git branch
